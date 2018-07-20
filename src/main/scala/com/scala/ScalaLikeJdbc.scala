@@ -17,6 +17,8 @@ object ScalaLikeJdbc {
 
     DBs.closeAll()
 
+    println("-------------------------------")
+
   }
 
 }
